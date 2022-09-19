@@ -1,0 +1,7 @@
+background: #6d092b;
+text color: #ECE4B7;
+header: #Ffa205;
+link (unclicked): #Ff5472;
+link (hover):#FF8811;
+
+Fonts: Antic Slab and Square Peg
